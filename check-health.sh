@@ -13,6 +13,8 @@ free -h
 echo -e "\n[3] Status Uptime Server:"
 uptime
 
+echo -e "\n[4] Penggunaan Swap RAM:"
+free -h | grep Swap
 
 echo "======================================"
 echo "Pemeriksaan Selesai!"
