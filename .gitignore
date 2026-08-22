@@ -1,0 +1,5 @@
+# Mengabaikan file rahasia
+.env
+
+# Mengabaikan semua file yang berakhiran .log
+*.log
